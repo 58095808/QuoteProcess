@@ -1,0 +1,2 @@
+Shampoo,200,15
+Towel$$ Soap$$ Shower Foam,300,6
